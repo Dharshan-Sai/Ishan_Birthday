@@ -1,0 +1,23 @@
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+#firstp {
+    font-size: 30px;
+}
+
+body {
+    text-align: center;
+    background-color: aqua;
+}
+
+#myfavbook {
+    font-size: 30px;
+}
+
+#bio {
+    font-size: 30px;
+
+}
